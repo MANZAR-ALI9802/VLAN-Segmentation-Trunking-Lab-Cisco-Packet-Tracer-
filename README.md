@@ -2,7 +2,7 @@
 
 A hands-on lab that segments a small network into **Sales** and **Marketing** VLANs across two Cisco 2950T-24 switches connected by an 802.1Q trunk.
 
-![Topology](images/topology.png)
+![Topology](topology.png)
 > Add your Packet Tracer screenshot as `images/topology.png`.
 
 ## Objectives
